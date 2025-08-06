@@ -31,45 +31,6 @@ git clone https://github.com/leamas-ai/agents-historical-figures.git
 
 If you do not have a `.claude/agents` directory, then create it before running the `git` commands.
 
-## Available Agents
-
-### Debate Moderator
-- **File**: `agents/debate-moderator.md`
-- **Role**: Neutral facilitator of intellectual discourse
-- **Features**: Structured debate format, balanced moderation, synthesis of arguments
-
-### Historical Figures
-
-1. **Socrates** (`agents/socrates-agent.md`)
-   - Classical Greek philosopher (470-399 BCE)
-   - Uses Socratic method of questioning
-   - Focuses on ethical and definitional inquiries
-
-2. **Aristotle** (`agents/aristotle-agent.md`)
-   - Greek philosopher and polymath (384-322 BCE)
-   - Systematic, empirical approach
-   - Expertise in logic, ethics, politics, and natural science
-
-3. **Marcus Aurelius** (`agents/marcus-aurelius-agent.md`)
-   - Roman Emperor and Stoic philosopher (121-180 CE)
-   - Practical wisdom from leadership experience
-   - Focus on what's within our control
-
-4. **Leonardo da Vinci** (`agents/leonardo-da-vinci-agent.md`)
-   - Renaissance polymath (1452-1519)
-   - Integrates art and science
-   - Visual thinking and innovation
-
-5. **Marie Curie** (`agents/marie-curie-agent.md`)
-   - Pioneering physicist and chemist (1867-1934)
-   - First woman Nobel laureate
-   - Advocate for women in science
-
-6. **Albert Einstein** (`agents/albert-einstein-agent.md`)
-   - Theoretical physicist (1879-1955)
-   - Revolutionary thinker on space, time, and reality
-   - Humanitarian and philosopher-scientist
-
 ## How to Use
 
 ### Basic Historical Debate Setup
@@ -195,3 +156,242 @@ To add new historical figures:
 - The moderator ensures balanced participation and civil discourse
 - Historical figures maintain their authentic worldviews while engaging modern topics
 - Debates can be educational, entertaining, and provide unique insights
+
+## Available Agents
+
+### Debate Moderator
+- **File**: `agents/debate-moderator.md`
+- **Role**: Neutral facilitator of intellectual discourse
+- **Features**: Structured debate format, balanced moderation, synthesis of arguments
+
+### Historical Figures
+
+#### Political & Military Leaders
+
+1. **Julius Caesar** (`agents/julius-caesar-agent.md`)
+   - Roman general, statesman, and dictator (100-44 BCE)
+   - Military genius and political reformer
+   - Transformed the Roman Republic into Empire
+
+2. **Alexander the Great** (`agents/alexander-the-great-agent.md`)
+   - Macedonian king and military conqueror (356-323 BCE)
+   - Created one of history's largest empires by age 30
+   - Never lost a battle in 15 years of conquest
+
+3. **Napoleon Bonaparte** (`agents/napoleon-bonaparte-agent.md`)
+   - French emperor and military genius (1769-1821)
+   - Revolutionized warfare, law, and administration
+   - Conquered much of Europe through strategic brilliance
+
+4. **George Washington** (`agents/george-washington-agent.md`)
+   - First U.S. President and Revolutionary War general (1732-1799)
+   - Father of His Country who established democratic precedents
+   - Led ragtag army to defeat British Empire
+
+5. **Winston Churchill** (`agents/winston-churchill-agent.md`)
+   - British Prime Minister during WWII (1874-1965)
+   - Led Britain through darkest hour with stirring oratory
+   - Warning voice against totalitarian threats
+
+6. **Cleopatra VII** (`agents/cleopatra-vii-agent.md`)
+   - Last active pharaoh of Egypt (69-30 BCE)
+   - Scholar-queen who wielded intelligence and political acumen
+   - Preserved Egyptian independence through Roman alliances
+
+7. **Mahatma Gandhi** (`agents/mahatma-gandhi-agent.md`)
+   - Leader of Indian independence movement (1869-1948)
+   - Pioneer of non-violent resistance and civil disobedience
+   - Transformed satyagraha into powerful force for social change
+
+8. **Abraham Lincoln** (`agents/abraham-lincoln-agent.md`)
+   - 16th U.S. President during Civil War (1809-1865)
+   - Great Emancipator who ended slavery in America
+   - Preserved Union through moral leadership
+
+9. **Nelson Mandela** (`agents/nelson-mandela-agent.md`)
+   - Anti-apartheid leader and President of South Africa (1918-2013)
+   - Spent 27 years in prison, emerged to lead peaceful transition
+   - Global symbol of reconciliation and moral leadership
+
+10. **Genghis Khan** (`agents/genghis-khan-agent.md`)
+    - Founder of the Mongol Empire (c.1162-1227)
+    - Created largest contiguous land empire in history
+    - Transformed Eurasian civilization through conquest
+
+#### Scientists & Inventors
+
+11. **Isaac Newton** (`agents/isaac-newton-agent.md`)
+    - Mathematical genius who formulated laws of motion and gravity (1642-1727)
+    - Invented calculus and revolutionized understanding of light
+    - Created mathematical framework for describing nature
+
+12. **Nikola Tesla** (`agents/nikola-tesla-agent.md`)
+    - Visionary inventor and electrical engineer (1856-1943)
+    - Pioneered alternating current and wireless technology
+    - Imagined future of free energy for all humanity
+
+13. **Ada Lovelace** (`agents/ada-lovelace-agent.md`)
+    - Considered the first computer programmer (1815-1852)
+    - Victorian mathematician who envisioned computing's potential
+    - Blended imagination with mathematical precision
+
+14. **Thomas Edison** (`agents/thomas-edison-agent.md`)
+    - Prolific American inventor and businessman (1847-1931)
+    - Developed light bulb, phonograph, and motion pictures
+    - Created first industrial research laboratory
+
+15. **Rosalind Franklin** (`agents/rosalind-franklin-agent.md`)
+    - British X-ray crystallographer (1920-1958)
+    - Key contributor to DNA structure discovery
+    - Precise research initially overlooked but later recognized
+
+16. **Albert Einstein** (`agents/albert-einstein-agent.md`)
+    - Theoretical physicist (1879-1955)
+    - Revolutionary thinker on space, time, and reality
+    - Humanitarian and philosopher-scientist
+
+#### Philosophers & Thinkers
+
+17. **Plato** (`agents/plato-agent.md`)
+    - Student of Socrates, writer of philosophical dialogues (428-348 BCE)
+    - Founded the Academy and explored ideal forms
+    - Established foundations of Western philosophical thought
+
+18. **Laozi** (`agents/laozi-agent.md`)
+    - Founder of Taoism (6th century BCE)
+    - Ancient Chinese sage who taught the Way of natural harmony
+    - Advocated effortless action and wisdom of simplicity
+
+19. **Immanuel Kant** (`agents/immanuel-kant-agent.md`)
+    - German Enlightenment philosopher (1724-1804)
+    - Established critical philosophy and moral imperatives
+    - Defined limits of human reason through systematic analysis
+
+20. **Karl Marx** (`agents/karl-marx-agent.md`)
+    - Philosopher and economist who developed Marxism (1818-1883)
+    - Analyzed capitalism's contradictions and class struggle
+    - Envisioned communist revolution as history's inevitable progression
+
+21. **Friedrich Nietzsche** (`agents/friedrich-nietzsche-agent.md`)
+    - German philosopher known for critiques of religion (1844-1900)
+    - Proclaimed death of God and envisioned the Übermensch
+    - Challenged traditional morality and values
+
+22. **John Locke** (`agents/john-locke-agent.md`)
+    - Enlightenment thinker on liberalism (1632-1704)
+    - Established liberal political theory and natural rights
+    - Founded empirical philosophy and religious tolerance
+
+23. **René Descartes** (`agents/rene-descartes-agent.md`)
+    - French philosopher and mathematician (1596-1650)
+    - Father of modern philosophy through methodical doubt
+    - Established rationalism and founded analytic geometry
+
+24. **Socrates** (`agents/socrates-agent.md`)
+    - Classical Greek philosopher (470-399 BCE)
+    - Uses Socratic method of questioning
+    - Focuses on ethical and definitional inquiries
+
+25. **Aristotle** (`agents/aristotle-agent.md`)
+    - Greek philosopher and polymath (384-322 BCE)
+    - Systematic, empirical approach
+    - Expertise in logic, ethics, politics, and natural science
+
+26. **Marcus Aurelius** (`agents/marcus-aurelius-agent.md`)
+    - Roman Emperor and Stoic philosopher (121-180 CE)
+    - Practical wisdom from leadership experience
+    - Focus on what's within our control
+
+27. **Confucius** (`agents/confucius-agent.md`)
+    - Chinese philosopher and teacher (551-479 BCE)
+    - Emphasized moral education and social harmony
+    - Founded Confucianism influencing East Asian culture
+
+28. **Ibn Khaldun** (`agents/ibn-khaldun-agent.md`)
+    - Arab historiographer and social scientist (1332-1406)
+    - Pioneer of modern historiography and sociology
+    - Analyzed rise and fall of civilizations
+
+#### Cultural Figures & Artists
+
+29. **William Shakespeare** (`agents/william-shakespeare-agent.md`)
+    - English playwright and poet (1564-1616)
+    - Master of English language and dramatic poetry
+    - Created timeless works exploring human nature
+
+30. **Ludwig van Beethoven** (`agents/ludwig-van-beethoven-agent.md`)
+    - German composer (1770-1827)
+    - Bridged Classical and Romantic periods
+    - Created revolutionary symphonies while battling deafness
+
+31. **Wolfgang Amadeus Mozart** (`agents/wolfgang-amadeus-mozart-agent.md`)
+    - Austrian composer (1756-1791)
+    - Prodigious talent who created perfect classical works
+    - Combined mathematical precision with emotional depth
+
+32. **Michelangelo** (`agents/michelangelo-agent.md`)
+    - Italian Renaissance sculptor, painter, and architect (1475-1564)
+    - Created transcendent art revealing divine beauty
+    - Master of David, Sistine Chapel, and St. Peter's Basilica
+
+33. **Pablo Picasso** (`agents/pablo-picasso-agent.md`)
+    - Spanish painter and sculptor (1881-1973)
+    - Revolutionized visual art through Cubism
+    - Most influential artist of the 20th century
+
+34. **Frida Kahlo** (`agents/frida-kahlo-agent.md`)
+    - Mexican painter (1907-1954)
+    - Transformed personal pain into powerful self-portraits
+    - Icon of strength, Mexican identity, and feminist art
+
+35. **Vincent van Gogh** (`agents/vincent-van-gogh-agent.md`)
+    - Dutch post-impressionist painter (1853-1890)
+    - Emotional intensity and vibrant colors revolutionized art
+    - Created masterworks despite mental illness and poverty
+
+36. **Johann Sebastian Bach** (`agents/johann-sebastian-bach-agent.md`)
+    - German Baroque composer (1685-1750)
+    - Mathematical precision and spiritual depth
+    - Created pinnacle of contrapuntal music
+
+37. **Leo Tolstoy** (`agents/leo-tolstoy-agent.md`)
+    - Russian novelist (1828-1910)
+    - Created epic works exploring meaning of life
+    - Advocated nonviolent resistance and spiritual transformation
+
+38. **Jane Austen** (`agents/jane-austen-agent.md`)
+    - English novelist (1775-1817)
+    - Witty novels of manners exploring women's lives
+    - Insightful social observation in Regency England
+
+#### Additional Historical Figures
+
+39. **Leonardo da Vinci** (`agents/leonardo-da-vinci-agent.md`)
+    - Renaissance polymath (1452-1519)
+    - Integrates art and science
+    - Visual thinking and innovation
+
+40. **Marie Curie** (`agents/marie-curie-agent.md`)
+    - Pioneering physicist and chemist (1867-1934)
+    - First woman Nobel laureate
+    - Advocate for women in science
+
+41. **Charles Darwin** (`agents/charles-darwin-agent.md`)
+    - English naturalist (1809-1882)
+    - Developed theory of evolution by natural selection
+    - Revolutionary understanding of life's diversity
+
+42. **Galileo Galilei** (`agents/galileo-galilei-agent.md`)
+    - Italian astronomer and physicist (1564-1642)
+    - Father of modern science and scientific method
+    - Defended heliocentrism against religious opposition
+
+43. **Harriet Tubman** (`agents/harriet-tubman-agent.md`)
+    - American abolitionist and conductor (c.1822-1913)
+    - Led Underground Railroad helping slaves escape
+    - Civil War spy and women's suffrage activist
+
+44. **Mary Wollstonecraft** (`agents/mary-wollstonecraft-agent.md`)
+    - English writer and women's rights advocate (1759-1797)
+    - Author of "A Vindication of the Rights of Woman"
+    - Pioneer of feminist philosophy and gender equality
